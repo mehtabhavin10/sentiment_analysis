@@ -1,5 +1,5 @@
 # Sentiment Analysis
-> Polytical Analysis using Tweeter 
+> Polytical Analysis using Tweeter API
 
 ## About
 
