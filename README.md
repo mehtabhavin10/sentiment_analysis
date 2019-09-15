@@ -27,6 +27,7 @@ This project is developed as a solution for a problem statement in Codeshastra 5
 ## Technology Used
 - **Backend**
     - Python
+    - Twitter API + TweePy
     - NLTK (Natural Language Tool Kit)
 
 - **Frontend**
